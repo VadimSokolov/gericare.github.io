@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Allow all web crawlers access to all content
+Sitemap: https://gericareva.com/sitemap.xml
