@@ -100,7 +100,7 @@ header {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    text-align: justify;
     line-height: 1.7;
 }
 
@@ -134,7 +134,7 @@ header {
 }
 
 .service-card p {
-    text-align: left;
+    text-align: justify;
     margin: 0;
     color: #666;
     line-height: 1.6;
